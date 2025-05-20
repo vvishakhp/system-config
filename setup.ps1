@@ -1,0 +1,1 @@
+Write-Host "This is the setup script for Windows"
